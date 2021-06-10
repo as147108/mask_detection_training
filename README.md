@@ -15,4 +15,4 @@ good: 96%　good: 88% good: 81%　good: 68%　bad: 89%　bad: 89%　bad: 79%
 good: 99%　good: 66%　good: 62%　good: 54%　bad: 71%　bad: 69%　bad: 54%　none: 60%
 
 ## 即時監測
-請使用MaskDetection.py自行測試
+請在Release下載Real-time-detection.7z解壓縮後執行MaskDetection.py自行測試
