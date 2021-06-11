@@ -14,4 +14,4 @@ good: 96%　good: 88% good: 81%　good: 68%　bad: 89%　bad: 89%　bad: 79%
 ![image](https://github.com/as147108/mask_detection/blob/main/Image/detection3.PNG?raw=true)<br>
 good: 99%　good: 66%　good: 62%　good: 54%　bad: 71%　bad: 69%　bad: 54%　none: 60%
 
-### 資料來源:https://pjreddie.com/darknet/yolo/
+資料來源:https://pjreddie.com/darknet/yolo/
